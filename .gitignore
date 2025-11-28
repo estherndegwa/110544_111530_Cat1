@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+api/node_modules/
+
+# Docker
+*.pid
+*.log
+
+# Mac/Linux
+.DS_Store
+
+# Screenshots
+screenshots/

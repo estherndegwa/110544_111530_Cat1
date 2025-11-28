@@ -1,0 +1,15 @@
+services:
+  lab-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lab-api
+    environment:
+      MONGO_URL: mongodb://root:rootpassword@mongo:27017/?authSource=admin
+      DB_NAME: shop
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    networks:
+      - default
