@@ -1,20 +1,14 @@
 # Collaboration Summary
 
-Provide a concise breakdown of each group member’s responsibilities and contributions:
+List group members and their contributions. Example template:
 
-- Member Name (GitHub: @handle)
-  - Responsibilities:
-  - Contributions:
-- Member Name (GitHub: @handle)
-  - Responsibilities:
-  - Contributions:
-- Member Name (GitHub: @handle)
-  - Responsibilities:
-  - Contributions:
-- Member Name (GitHub: @handle)
-  - Responsibilities:
-  - Contributions:
+- Esther Ndegwa  (GitHub: @estherndegwa)
+  - Wrote Docker Compose and seed scripts
+  - Implemented CRUD examples in `mongosh`
+  - Authored applied scenario and aggregation examples
 
-Notes:
-- Ensure balanced workload across setup, CRUD, scenario modeling, scripting, documentation, and visuals.
-- Link to specific commits or PRs if available.
+- Sharon Wawira (GitHub: @SWawira)
+  - Assembled lab guide, screenshots, and reproducibility checks
+  - Reviewed technical accuracy and added indexes
+  - Organized repository structure.
+  - Managed issues and submission packaging
